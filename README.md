@@ -37,6 +37,7 @@ Para obtener la documentacion es requerido correr el siguiente comando:
 ```
 ## Repositorio de GitHub
 
+https://github.com/Hajaku12/An-lisis-y-Dise-o-de-Sistemas-Orientados-a-Objetos-Calculo-Media-y-desviacion-con-LinkedList-.git
 
 ## Realizado por: 
 Hann Jang
